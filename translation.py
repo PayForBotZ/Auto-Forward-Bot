@@ -5,9 +5,24 @@ class Translation(object):
 
       #About text
       ABOUT = """
-<b>📝 Language:</b> Python 3
-<b>🧰 Framework:</b> Pyrogram
-<b>👨‍💻 Developer:</b> 𝐀𝐧𝐨𝐧𝐲𝐦𝐨𝐮𝐬
-<b>📢 Channel:</b> NS BOT UPDATES
-<b>👥 Group:</b> Ns BOT SUPPORT
-<b>🌐Source Code:</b> Press Me 🥰"""
+╭────[🔅Forward Bot🔅]───⍟
+│
+├<b>🤖 Bot Name : <a href='https://t.me/PayForBotz'>Forward Bot</a></b>
+│
+├<b>📢 Channel : <a href='https://t.me/TeleRoidGroup'>@TeleRoidGroup</a></b>
+│
+├<b>👥 Version : <a href='https://t.me/joinchat/t1ko_FOJxhFiOThl'>0.9.2 beta</a></b>
+│
+├<b>💢 Source : <a href='https://github.com/PredatorHackerzZ'>Click Here</a></b>
+│
+├<b>🌐 Server : <a href='https://heroku.com'>Heroku</a></b>
+│
+├<b>📕 Library : <a href='https://github.com/pyrogram'>Pyrogram 1.2.8</a></b>
+│
+├<b>㊙ Language: <a href='https://www.python.org'>Python 3.9.4</a></b>
+│
+├<b>👨‍💻 Developer : <a href='https://t.me/PredatorHackerZ'>Pred∆tor</a></b>
+│
+├<b>🚸 Powered By : <a href='https://t.me/Moviesflixers_DL'>@HindiWebNetwork</a></b>
+│
+╰──────[Thanks 😊]───⍟"""
